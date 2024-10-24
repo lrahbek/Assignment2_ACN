@@ -166,6 +166,9 @@ cython_debug/
 in/*
 !in/.gitkeep
 
+out/*
+!out/.gitkeep
+
 # ignore own git setup files
 gitsetup.sh
 
