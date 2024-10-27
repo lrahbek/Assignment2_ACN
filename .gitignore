@@ -162,13 +162,10 @@ cython_debug/
 #.idea/
 
 #own additions
-# ignore all files in folder in except .gitkeep to include the folder
-in/*
-!in/.gitkeep
-
+# outfolder
 out/*
 !out/.gitkeep
-
+!out/atlasreader
 # ignore own git setup files
 gitsetup.sh
 
