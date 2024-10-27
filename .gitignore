@@ -166,6 +166,7 @@ cython_debug/
 out/*
 !out/.gitkeep
 !out/atlasreader
+!out/class_reports
 # ignore own git setup files
 gitsetup.sh
 

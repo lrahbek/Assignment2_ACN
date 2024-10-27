@@ -7,6 +7,7 @@ python -m pip install dicom2nifti
 python -m pip install nibabel
 python -m pip install nilearn
 python -m pip install scikit-learn
+python -m pip install imblearn
 python -m pip install mne
 python -m pip install seaborn
 python -m pip install crtoolbox
